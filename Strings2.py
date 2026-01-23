@@ -1,0 +1,10 @@
+line = input("Enter a line : ")
+print ("Your line is : \n" , line)
+
+print(line[0])
+print(line[1])
+print(line[2])
+print(line[3])
+print(line[4])
+print(line[5])
+print(line[0:6])
