@@ -6,7 +6,7 @@ print(a-b)
 my_number = 78 
 print(my_number)
 print(type(my_number))
-
+ 
 passed = True
 print(passed)
 print(type(passed))
