@@ -8,3 +8,4 @@ elif temperature >= 15 and temperature < 25:
     print("You can wear light clothes, but carry a light jacket because it might be chilly.")
 else:
     print("It is cold. Wear a jacket or pullover.")
+1516
